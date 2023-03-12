@@ -6,7 +6,7 @@
                     2- https://github.com/mohamedibrahim5776/Kasper-HTML-Css- & live Server : https://mohamedibrahim5776.github.io/Kasper-HTML-Css-/
                     3- https://github.com/mohamedibrahim5776/Elzero-World-HTML-Css- & Live Server https://mohamedibrahim5776.github.io/Elzero-World-HTML-Css-/
   # Some simple project in Frontend Mentor 
-                    1- https://mohamedibrahim5776.github.io/huddle-landing-page-with-curved-sections-master/
+                    1- https://mohamedibrahim5776.github.io/huddle-landing-page-with-curved-sections-master
                     2- https://mohamedibrahim5776.github.io/intro-section-with-dropdown-navigation-main/
                     3- https://mohamedibrahim5776.github.io/interactive-card-details-form-main/
                     4- https://mohamedibrahim5776.github.io/news-homepage-main/
